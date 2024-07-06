@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://github.com/NikamAshutosh)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://github.com/NikamAshutosh.io)
 <h1 align="center">Hi 👋, I'm Ashutosh Nikam</h1>
 <h3 align="center">A passionate Data Alchemist, Let's collaborate to unleash the full potential of data!</h3>
 <img align="right" alt="Coding" width="400" src="https://www.inteliment.com/wp-content/uploads/2021/05/37-The-Techniques-Team-and-Tools-for-Effective-Data-Science.jpg">
