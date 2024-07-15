@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ashudadanikam777@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1Muj0VgjggD-aMs_o0n60CPKKmGMD3rw4/view?usp=sharing
+- 📄 Know about my ME (Resume) https://drive.google.com/file/d/1Muj0VgjggD-aMs_o0n60CPKKmGMD3rw4/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-nikam-3b0741181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashutosh-nikam-3b0741181/" height="30" width="40" /></a>
